@@ -1,11 +1,11 @@
 {
-  "pluginid": "nei",
-  "archivebase": "com.jeffpeng.jmod.nei",
-  "name": "JMOD Chisel Bindings",
+  "pluginid": "decocraft",
+  "archivebase": "com.jeffpeng.jmod.decocraft",
+  "name": "JMOD Decocraft Bindings",
   "description" : "",
   "version"	:	"1.3.1",
   "authors"	: ["SvenKayser"],
   "url" : "",
   "credits" : "",
-  "scriptingobjects" : {"NEI" :"Scripting"}
+  "scriptingobjects" : {}
 }
