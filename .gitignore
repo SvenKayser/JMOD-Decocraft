@@ -1,9 +1,11 @@
 /bin
 **/eclipse
 **/libs
-#**/gradle
+**/gradle
 **/bin
 **/build
+.buildpath
+.project
 .gradle
 .settings
 .metadata
